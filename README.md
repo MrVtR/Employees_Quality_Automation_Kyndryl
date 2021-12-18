@@ -7,4 +7,7 @@ Respository containing a program made with Jupyter Notebook to be automating the
 5. Re - Allows you to perform Regex queries and conversion operations from Strings to Lists
 6. Figlet - Library for displaying credits in the programa
 7. Matplotlib - Allows you to view the generated results in graphical form<br/><br/>
-Licensed by: <b>GNU General Public License v3.0</b>
+
+
+Licensed by: <b>[GNU General Public License v3.0](https://github.com/MrVtR/Employees_Quality_Automation_Kyndryl/blob/main/LICENSE)</b>
+
