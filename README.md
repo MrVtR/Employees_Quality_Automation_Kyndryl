@@ -5,7 +5,7 @@ Respository containing a program made with Jupyter Notebook to be automating the
 3. Datetime - Allows to perform mathematical operations with Dates and Times
 4. Json - Allows reading Json files from the project folder
 5. Re - Allows you to perform Regex queries and conversion operations from Strings to Lists
-6. Figlet - Library for displaying credits in the programa
+6. Figlet - Library for displaying credits in the program
 7. Matplotlib - Allows you to view the generated results in graphical form<br/><br/>
 
 
